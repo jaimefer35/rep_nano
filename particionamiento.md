@@ -1,0 +1,2 @@
+# Particionamiento de disco Duro
+ 
